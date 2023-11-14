@@ -1,0 +1,4 @@
+﻿  Lost treasure.cpp
+C:\Users\gular\source\repos\Lost treasure\Lost treasure\Lost treasure.cpp(15,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\gular\source\repos\Lost treasure\Lost treasure\Lost treasure.cpp(19,10): warning C4101: restartKey: неиспользованная локальная переменная
+  Lost treasure.vcxproj -> C:\Users\gular\source\repos\Lost treasure\Debug\Lost treasure.exe
